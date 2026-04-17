@@ -1,9 +1,9 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "PulseFit Coaching | Personal Fitness Training",
+  title: "SignalRoom | Real-Time Interview Platform",
   description:
-    "Professional fitness coaching website for strength, mobility, transformation plans, and WhatsApp lead booking.",
+    "A real-time interview platform with rooms, video, audio, code editor, chat, and interviewer dashboard.",
 };
 
 export default function RootLayout({ children }) {
