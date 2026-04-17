@@ -1,5 +1,5 @@
 {
-  "name": "signalroom-next",
+  "name": "pulsefit-next",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -18,3 +18,4 @@
     "eslint-config-next": "16.2.3"
   }
 }
+
